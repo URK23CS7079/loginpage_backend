@@ -14,7 +14,7 @@ import com.login.demo.service.UserService;
 
 @RestController
 @RequestMapping("/api")
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://urk23cs7079.netlify.app")
 public class LoginController {
 
     @Autowired
